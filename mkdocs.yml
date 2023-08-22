@@ -1,6 +1,9 @@
 site_name: The Crystal Caravans
 theme:
+  custom_dir: docs/overrides
   name: material
+  features:
+    - navigation.footer
   icon:
     logo: material/palm-tree
 markdown_extensions:
@@ -12,5 +15,11 @@ markdown_extensions:
 plugins:
   - search
   - table-reader
-  - print-site
-
+  - print-site:
+      add_print_site_banner: true
+      add_cover_page: true
+extra:
+  social:
+    - icon: fontawesome/solid/print
+      link: /print_page/
+      name: "Print this book (or view it as one page.)"

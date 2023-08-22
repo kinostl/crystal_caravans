@@ -19,5 +19,3 @@ This is a fan-made tabletop adaption of Final Fantasy Crystal Chronicles, provid
 > This is the tale of one such caravan and its adventures.
 >
 > - Crystal Chronicles Manual (lightly edited)
-
-
