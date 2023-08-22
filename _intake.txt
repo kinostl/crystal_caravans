@@ -1,0 +1,115 @@
+https://thealexandrian.net/wordpress/1223/roleplaying-games/opening-your-game-table
+
+Node based crawling maybe? Rewards exploring multiple times and plays into the themes of CC okay enough. Could have nodes act like liberation tiles in NB.
+
+https://goblinpunch.blogspot.com/2023/04/the-underclock-fixing-random-encounter.html
+
+Need some kind of HP mechanics. Hit so many times, mission failed? Run out of dice, mission failed? Taking a hit is a loss of dice?
+
+Players take turns in combat as a group. Things that might count as combat include things like sneaking and conversation. This means that the team comes up with a plan, and then distribute dice from the shared pool. Complex plans will likely require multiple players succeeding at their task.
+
+Spell system that requires spending a number of dice, and having necessary magicant materials to cast them. (IE: to cast Animate Dead you need to sacrifice 3 Dice, and two magican of life and holy. Summon creature would be simiar but require life and earth)
+
+Letters mechanics sounds like fun to figure out and something that could integrate well with camping and cities.
+
+Favorite foods mechanics? Might be too ryuutama
+
+Maybe artifacts can be something you equip to the chalice, and have it max out on slots due to Carry Mog's carrying capacity?
+
+Equipment could be neat. Maybe have one Artifact slot, and have the Artifacts give bonus dice or +1 to a stat? Then also an Armor Slot, Weapon Slot, and Accessory Slot? Accessory being space for things like Magicite Rings or traditional FF Accessories.
+
+>  Some actions may require more than one success. If this is the case, choose that many dice. The highest one is what counts for the distance from your stat. (So if you have a stat of 3 and dedicate 5 dice, and the action requires 2 successes - you choose two dice. For example, a 2 and a 3. The action succeed with a value equal to 3, because 3 was the largest in the pool of dice selected.)
+
+Maybe levelling should just add feats or something, or have everything be equipment.
+
+Leveling Past 5 - Bonus Dice/Refund Dice?
+
+Okay so according to below, players should just set 2/2/3
+
+Question with this point is "how many dice should you get in a mission?"
+Could do a par system where the GM determines the *party*'s dice pool.
+
+I think these rates can play well with the resource spending system. They don't know whats coming so they might spend 1 when they should be spending 2 and etc.
+
+According to this, 2/2/3 is better to aim for.
+(1->2)+(1->2)+(1->2->3)=1+1+(1+2)=2+3=5
+
+(0->1)+(1->2)+(2->3)+(3->4)+(4->5)=
+0+1+2+3+4=10
+
+(0->1)+(1->2->3)+(1->2->3)=
+0+3+3=6
+
+So start with 5 points to spend on starting stats? Could result in a 1/2/5 stat line. (how did I determine that, thats false)
+1d6<=5 is ~80% chance and 2d6<=5 is almost 100% chance
+3d6<=5 is definitelt 100% chance
+
+1->2->3->4->5
+1->2->3->4->5
+1->2->3->4->5
+0  3  6  9  12
+
+3+6+9+12=30
+Costs 30 to max out every stat.
+
+(1+2+3+4)=10 so 10 to max out one stat
+
+So this means I probably want 3/4/3 to be an easy spread to get, starting from 1/1/1
+I like the idea of it costing X to increase a stat to the next number, where X is the current stat.
+1->2 costs 1
+2->3 costs 2
+3->4 costs 3
+4->5 costs 4
+Maxes out at 5.
+
+https://anydice.com/program/31212
+
+Data means we probably want to assume most actions are 4d6 vs a stat of 3?
+No, 3d6 vs a stat of 2 is 75%-ish. That seems more fun to focus on.
+4d6 vs 3 is almost 80%
+3d6 almost guarenteed to have a <= to 5
+
+4d6<=1 is 50/50
+1d6<=3 is 50/50
+
+Variance caps somewhere around 12.
+
+6d6 prettt much the same for <=4 and <=5
+5d6 too
+4d6 keeps the most variance
+7 or 8 has an equal chance of <=3 or <=4
+12 has an equal chance of <=3 or <=2
+flattens out to a guarenteed hit at 27
+
+ZoneBooth — Yesterday at 4:26 AM
+Microlite 20 maps well to Crystal Chronicles. Prefer a "raised by" system instead of a race system. Find a way to incorporate family and town mechanics. Find a way to make Action Fusion a thing to replicate the feeling of combining magic. Find a way to turn magic into a mp & materia system. Consider whether or not to copy the materia-per-dungeon rule. (Consumable materia?)
+Flask system maybe, consumables can lead to not using them.
+Do the +2 to stat thing with Clavats being neutral.
+
+Use Strength Defense Magic instead of Str dex Mind? Or find something that fits selkies well. (maybe just rename Strength and mind to body and magic. Could find a different name for dexterity)
+(Raised by effects stats like races do in m20)
+Feats focused on trading could influence gameplay well and be a good implementation of family mechanics
+ZoneBooth — Yesterday at 4:35 AM
+Weapons instead of classes could allow for modularity
+ZoneBooth — Yesterday at 4:42 AM
+Roll under d6 system. Start mission with pool of dice based on level. Dedicate dice to attempts.
+Treasure instantly turns into 1 dice. Can spend 3 to find named treasure. Unused dice turn into valued treasure
+Max stat 5 min stat 1
+ZoneBooth — Yesterday at 4:58 AM
+For custom wushu Crystal setting have it be "raised in (element)"
+Roll under 2,3,4,5,6* impossible to roll under 1, whoops.
+D8s look kinda like crystals
+D6 are more available and not traditional for Japanese ttrpgs
+Action Fusion let's you add or remove dice from another action before it is rolled? Could be cumbersome. I like the idea though. Needs to operate atomically or responsively
+ZoneBooth — Yesterday at 5:29 AM
+Roll close to your stat could reflect the targeting reticle sync system
+ZoneBooth — Yesterday at 11:24 AM
+Once you've beaten the boss of the dungeon, you will be given a choice between 4 treasures called an Artifact Set. The Artifact Set you choose from will depend on how many players, the cycle, and your total Bonus points. In Multiplayer games, the player with the highest bonus points will be able to select first before the rest.
+ZoneBooth — Yesterday at 11:47 AM
+Magic system focused on the crystal chalice?
+ZoneBooth — Yesterday at 6:40 PM
+https://twitter.com/saunterwing/status/1671916138702204931?s=20
+ZoneBooth — Yesterday at 7:01 PM
+Use LTE allows for scores of 1, and crits on eqs. Can do 12345 instead.
+
+

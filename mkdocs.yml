@@ -1,0 +1,12 @@
+site_name: The Crystal Caravans
+theme:
+  name: material
+  icon:
+    logo: material/palm-tree
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+plugins:
+  - search
+  - print-site
