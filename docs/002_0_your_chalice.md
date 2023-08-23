@@ -10,9 +10,9 @@ Your party is friends with a Moogle. A fluffy flying creature that's immune to t
 
 They're happy to carry the chalice for you.
 
-- **Strong** +1 Chalice Accessory Slot
-- **Brave** Willing to act alone
-- **Magical** Treat your Chalice as a Magicite
+-   **Strong** +1 Chalice Accessory Slot
+-   **Brave** Willing to act alone
+-   **Magical** Treat your Chalice as a Magicite
 
 Don't forget to name them. Moogle names traditionally fit "Mog" into them somehow.
 
@@ -32,8 +32,9 @@ A Chalice also wards off mana of its current element. Roll an extra dice when fi
 
 The elements a chalice can attune to are Fire, Water, Wind, and Earth.
 
-- Fire becomes Fire Magicite
-- Water becomes Ice Magicite
-- Wind becomes Thunder Magicite
-- Earth becomes Clear Magicite
+-   Fire becomes Fire Magicite
+-   Water becomes Ice Magicite
+-   Wind becomes Thunder Magicite
+-   Earth becomes Clear Magicite
 
+Your GM might let you attune your chalice to another element. They'll let you know what kind of Magicite it is.

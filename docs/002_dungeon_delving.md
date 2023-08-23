@@ -1,10 +1,12 @@
 # Dungeon Delving
 
+You start a dungeon fresh. Your hearts are full, your stomachs are fed, and you're ready to take on anything. Go deep and get that dew.
+
 ## Fighting Monsters
 
 Fighting is a back and forth between the party and a band of monsters. The party says every action they plan on taking to win the fight, then roll the relevant dice (Usually Combat or Magic).
 
-*Every* dice that is a success contributes to this roll. For every success, choose a monster. It loses a heart. They'll do the same to you, until one side has lost.
+_Every_ dice that is a success contributes to this roll. For every success, choose a monster. It loses a heart. They'll do the same to you, until one side has lost.
 
 When the party runs out of hearts, they tuck their tail between their legs and run back to town to heal.
 
@@ -24,13 +26,15 @@ Traps and Puzzles are interchangeable, they both require your focus to solve. Wh
 
 Some places are just beautiful detours. If you find yourself in an Exploration tile the GM will tell you something about the world or the dungeon, then let you know that everyone can take one action without advancing the underclock. This is a good time to eat food, heal with magicite, and manage your inventory.
 
-### Mog Hole
+### Moogle Nest
 
-Some of these detours have whats known as a Mog Hole. Your moogle companion will let you know about that if they're in a good mood. Moogles live in Mog Holes, and they love visitors. They might give you some free items, a meal, or another opportunity to take actions without advancing the underclock.
+Moogles live in Moogle Nests, and they love visitors. They might give you some free items, a meal, or another opportunity to take actions without thickening the fog.
 
-### Wind back the undercock
+Your moogle companion will let you know about nearby Moogle Nests if they're in a good mood.
 
-You can roll Unity while exploring to wind back the Underclock. Reduce it by 1 or each success.
+### Thin the Miasma
+
+You can roll Unity while exploring to thin the Miasma. Reduce it by 1 or each success.
 
 ### Calm Healing Bonus
 
@@ -61,6 +65,3 @@ Myrrh trees also hold items of high value that are easy to transport, like rare 
 ### Relaxing
 
 The presence around a Myrrh tree is absolutely safe from monsters, beautiful, and serene. It heals the soul and body. You've just finished a dangerous mission. Stay a while, and appreciate this place. Heal your wounds, write some letters to your family, and fill out your diary.
-
-
-

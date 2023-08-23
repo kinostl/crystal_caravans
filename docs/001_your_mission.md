@@ -4,13 +4,13 @@
 >
 > Many dangers and mysteries lie along your journey. Your task is not an easy one, but you are not alone. Join forces with your fellow caravanners and make your mark together in the Crystal Chronicles.
 >
-> - Crystal Chronicles Manual
+> -   Crystal Chronicles Manual
 
 ## How to Do Stuff
 
 When you do something that has a risk to it, roll 3d6. Every dice resulting in a value less than or equal to the appropriate stat is a success. Dice that are equal to the appropriate stat exactly are Crits.
 
-During a mission you may choose to roll 2d6 instead of 3d6. If you choose to do this you gain an additional treasure at the end of the mission regardless of the result.
+During a mission you may choose to roll 2d6 instead of 3d6. If you choose to do this you gain an additional treasure at the end of the mission regardless of the result. If you fail a risky roll, the miasma thickens.
 
 ## Going through a Mission
 
@@ -26,7 +26,7 @@ When you finish a node, the GM will secretly roll 1d6 for each exit to see what 
 2. Explore
 3. Trap
 4. Fight w/ Treasure
-5. Explore w/ Mog Cave
+5. Explore w/ Moogle Nest
 6. Trap w/ Treasure
 
 ### The Miasma
@@ -35,17 +35,17 @@ The Miasma does not want your mission to succeed and will fight you the entire t
 
 When the miasma's pressure is above...
 
-- 6, monsters will no longer be surprised by you.
-- 12, the party becomes and stays nausesous.
-- 18, the party becomes poisoned and loses 1 heart every time they roll.
-- 24, consider the mission faied. Abandon the dungeon and return to town.
+-   6, monsters will no longer be surprised by you.
+-   12, the party becomes and stays nausesous.
+-   18, the party becomes poisoned and loses 1 heart every time they roll.
+-   24, consider the mission faied. Abandon the dungeon and return to town.
 
 #### What makes it thicken?
 
 This list is not exhaustive
 
-- Some monsters may roll to thicken the miasma instead of attaking.
-- Taking too many actions while exploring or solving puzzles thickens the miasma.
+-   Some monsters may roll to thicken the miasma instead of attaking.
+-   Taking too many actions while exploring or solving puzzles thickens the miasma.
 
 <!-- TODO Implement Goblin Punch's Underclock idea. -->
 <!-- https://goblinpunch.blogspot.com/2023/04/the-underclock-fixing-random-encounter.html -->
