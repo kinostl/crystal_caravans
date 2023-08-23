@@ -17,6 +17,14 @@
 
 **Goal** Defeat the _Giant Crab_ protecting the Myrrh Tree.
 
+## Map
+
+Can't use Mermaid Node Map
+
+## Encounter List
+
+Goblins, etc.
+
 ## Defeat The Giant Crab
 
 Giant crab stuff

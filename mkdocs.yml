@@ -1,25 +1,28 @@
 site_name: The Crystal Caravans
+extra_css:
+    - "extra.css"
 theme:
-  custom_dir: docs/overrides
-  name: material
-  features:
-    - navigation.footer
-  icon:
-    logo: material/palm-tree
+    custom_dir: docs/overrides
+    name: material
+    features:
+        - navigation.footer
+    icon:
+        logo: material/palm-tree
 markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tasklist:
-      custom_checkbox: true
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - pymdownx.tasklist:
+          custom_checkbox: true
 plugins:
-  - search
-  - table-reader
-  - print-site:
-      add_print_site_banner: true
-      add_cover_page: true
+    - search
+    - table-reader
+    - mermaid2
+    - print-site:
+          add_print_site_banner: true
+          add_cover_page: true
 extra:
-  social:
-    - icon: fontawesome/solid/print
-      link: /print_page/
-      name: "Print this book (or view it as one page.)"
+    social:
+        - icon: fontawesome/solid/print
+          link: /print_page/
+          name: "Print this book (or view it as one page.)"

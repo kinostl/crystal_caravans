@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Quintessential&family=Tangerine:wght@400;700&display=swap');
+
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+  font-family: 'Tangerine';
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Quintessential';
+}
+
+blockquote {
+  font-family: 'Berkshire Swash';
+}
