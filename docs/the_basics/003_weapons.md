@@ -11,7 +11,7 @@ Some Accessories allow you to use weapons from outside your tribe.
 -   _Yukes_ start with an **Orc Hammer**.
 -   _Selkies_ start with an **Aura Racket**.
 
-{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="starting_weapons") }}
+{{ read_excel('../data.xlsx', engine='openpyxl', sheet_name="starting_weapons") }}
 
 ## Focus Attacks
 

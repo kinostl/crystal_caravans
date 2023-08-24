@@ -3,10 +3,10 @@
 {% block content %}
 
 {% if page.url_to_print_page %}
-    <a href="{{ page.url_to_print_page }}" title="Print Site" class="md-content__button md-icon">
-        <div>{% include ".icons/material/printer.svg" %} Print this book</div>
-        <small>View as One Page</small>
-    </a>
+<a href="{{ page.url_to_print_page }}" title="Print Site" class="md-content__button md-icon" id="print_icon">
+    <div>{% include ".icons/material/printer.svg" %} Print this book</div>
+    <small>View as One Page</small>
+</a>
 {% endif %}
 
 {{ super() }}

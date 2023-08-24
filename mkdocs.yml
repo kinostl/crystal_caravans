@@ -6,6 +6,8 @@ theme:
     name: material
     features:
         - navigation.footer
+        - navigation.sections
+        - navigation.indexes
     icon:
         logo: material/palm-tree
 markdown_extensions:
@@ -17,7 +19,6 @@ markdown_extensions:
 plugins:
     - search
     - table-reader
-    - mermaid2
     - print-site:
           add_print_site_banner: true
           add_cover_page: true
@@ -26,3 +27,34 @@ extra:
         - icon: fontawesome/solid/print
           link: /print_page/
           name: "Print this book (or view it as one page.)"
+nav:
+    - index.md
+    - "Setting Off":
+          - setting_off/000_character_creation.md
+          - setting_off/001_your_mission.md
+          - setting_off/002_0_your_chalice.md
+    - "The Basics":
+          - the_basics/002_dungeon_delving.md
+          - the_basics/003_weapons.md
+          - the_basics/003_z_armor.md
+          - the_basics/004_magic_and_statuses.md
+          - the_basics/005_fusion.md
+    - "Traverse The World":
+          - traverse_the_world/007_travelling.md
+          - traverse_the_world/008_towns.md
+    - "The Passage Of Time":
+          - the_passage_of_time/009_time.md
+    - "Tables":
+          - appendix/index.md
+          - appendix/weapons.md
+          - appendix/armor.md
+          - appendix/accessories.md
+          - appendix/armor_accessories.md
+          - appendix/chalice_accessories.md
+          - appendix/edible_accessories.md
+          - appendix/monsters.md
+    - "Starter Missions":
+          - starter_missions/index.md
+          - starter_missions/012_river_belle_path.md
+          - starter_missions/013_mushroom_forest.md
+          - starter_missions/014_mines.md

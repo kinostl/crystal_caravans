@@ -8,6 +8,11 @@ h1 {
   font-family: 'Tangerine';
 }
 
+.md-typeset h1 {
+  color: var(--md-default-fg-color);
+  font-size: 3em;
+}
+
 h2,
 h3,
 h4,
@@ -18,4 +23,37 @@ h6 {
 
 blockquote {
   font-family: 'Berkshire Swash';
+}
+
+#print_icon {
+  color: var(--md-default-fg-color--light);
+}
+
+#print_icon:hover {
+  color: var(--md-accent-fg-color);
+}
+
+.md-nav--primary .md-nav__title,
+.md-nav--secondary .md-nav__title {
+  background-color: unset;
+  box-shadow: none;
+  color: var(--md-default-fg-color);
+}
+
+@media not print {
+  body,
+  table {
+    background-color: #f1e9d2;
+  }
+
+  blockquote {
+    background-color: #f7fcfe;
+  }
+}
+
+@media print {
+  #print-site-cover-page {
+    width: 100vw;
+    height: 100vh;
+  }
 }

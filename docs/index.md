@@ -1,8 +1,4 @@
-# The Crystal Caravans
-
-This is a fan-made tabletop adaption of Final Fantasy Crystal Chronicles, providing you with the tools necessary to tell stories about resource management as you search for resources for your family and town, discover the world, and carry out favors for friends you meet on the road.
-
-## Prologue
+# Prologue
 
 > Seek the water of life.
 >
@@ -18,4 +14,6 @@ This is a fan-made tabletop adaption of Final Fantasy Crystal Chronicles, provid
 >
 > This is the tale of one such caravan and its adventures.
 >
-> - Crystal Chronicles Manual (lightly edited)
+> -   Crystal Chronicles Manual (lightly edited)
+
+This is a fan-made tabletop adaption of Final Fantasy Crystal Chronicles, providing you with the tools necessary to tell stories about resource management as you search for resources for your family and town, discover the world, and carry out favors for friends you meet on the road.
