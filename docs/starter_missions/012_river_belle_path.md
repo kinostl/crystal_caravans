@@ -24,7 +24,22 @@ graph LR
     GC---GL{Goblin Labyrinth};
     GC---SC[/Scenic Cliff\];
     GL-->BR(((Giant Crab)));
+
+    click S "#entrance"
+    click GG "#goblin-gate"
+    click GC "#goblin-courtyard"
+    click GL "#goblin-labyrinth"
+    click SC "#the-scenic-cliff"
+    click BR "#defeat-the-giant-crab"
 ```
+
+<div class="print-site-plugin-ignore" markdown>
+
+!!! Tip "Node Maps on The Web"
+
+    This map is interactive! Click on a node to jump to it.
+
+</div>
 
 ## Monster List
 
