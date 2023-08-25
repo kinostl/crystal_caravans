@@ -52,7 +52,7 @@ This list is not exhaustive
 
 ## Equipment
 
-Your character has 4 Equipment Slots - Weapon, Armor, and two Accessory Slots. Trying to wear or carry more than this will overwhelm your character.
+Your character has 5 Equipment Slots - Weapon, Armor, and two Accessory Slots. Trying to wear or carry more than this will overwhelm your character.
 
 You may put Food into your accessory slots. Eating it will free up the accessory slot.
 

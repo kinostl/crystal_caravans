@@ -21,6 +21,14 @@ h6 {
   font-family: 'Quintessential';
 }
 
+section.section2,
+section.section3,
+section.section4,
+section.section5,
+section.section6 {
+  break-inside: avoid;
+}
+
 blockquote {
   font-family: 'Berkshire Swash';
 }
@@ -51,9 +59,12 @@ blockquote {
   }
 }
 
-@media print {
-  #print-site-cover-page {
-    width: 100vw;
-    height: 100vh;
-  }
+.monster-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.monster-list p {
+  min-width: 40ch;
 }

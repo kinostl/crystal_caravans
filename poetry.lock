@@ -262,6 +262,23 @@ files = [
 ]
 
 [[package]]
+name = "mdx_outline"
+version = "1.3.0"
+description = ""
+optional = false
+python-versions = "*"
+files = [
+    {file = "master.zip", hash = "sha256:f24c91b7a40bc236a0ec150bdbbb4e83ada8b925c199736e1f45c0c939d31ec1"},
+]
+
+[package.dependencies]
+Markdown = ">=3.4"
+
+[package.source]
+type = "url"
+url = "https://github.com/kinostl/mdx_outline/archive/refs/heads/master.zip"
+
+[[package]]
 name = "mergedeep"
 version = "1.3.4"
 description = "A deep merge function for 🐍."
@@ -847,4 +864,4 @@ watchmedo = ["PyYAML (>=3.10)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "68024f24cfbde880d3091a4ccf12cb3ee761a88008db2fce12b3fb97d5712b86"
+content-hash = "a1ae6f311762c3f26ea6c397d11ef3d052d1dffbbfbf7f0e296d1dc0b3931938"

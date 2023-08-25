@@ -12,10 +12,17 @@ theme:
         logo: material/palm-tree
 markdown_extensions:
     - admonition
-    - pymdownx.details
-    - pymdownx.superfences
+    - attr_list
+    - md_in_html
+    - mdx_outline
     - pymdownx.tasklist:
           custom_checkbox: true
+    - pymdownx.superfences:
+          custom_fences:
+              - name: mermaid
+                class: mermaid
+                format: !!python/name:pymdownx.superfences.fence_code_format
+
 plugins:
     - search
     - table-reader
