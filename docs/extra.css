@@ -1,13 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Quintessential&family=Tangerine:wght@400;700&display=swap');
 
 :root {
-  --md-primary-fg-color: #4051b5;
-  --md-primary-fg-color--light: #5d6cc0;
-  --md-primary-fg-color--dark: #303fa1;
-  --md-primary-bg-color: #fff;
-  --md-primary-bg-color--light: #ffffffb3;
-  --md-accent-fg-color: #526cfe;
-  --md-accent-fg-color--transparent: #526cfe1a;
+  --md-primary-fg-color: #009485;
+  --md-primary-fg-color--light: #26a699;
+  --md-primary-fg-color--dark: #007a6c;
+  --md-accent-fg-color: #0091eb;
+  --md-accent-fg-color--transparent: #0091eb1a;
   --md-accent-bg-color: #fff;
   --md-accent-bg-color--light: #ffffffb3;
 }
@@ -54,7 +52,7 @@ blockquote {
 }
 
 .boss-monster {
-  border: var(--md-typeset-table-color) double 0.5em;
+  border: var(--md-default-fg-color) double 0.5em;
   padding: 0.5em;
 }
 
@@ -66,7 +64,12 @@ blockquote {
 @media not print {
   :root {
     --md-default-bg-color: #f1e9d2;
-    --md-typeset-table-color: black;
+    --md-typeset-table-color: var(--md-default-fg-color);
+    --md-admonition-bg-color: var(--md-accent-bg-color);
+  }
+
+  .boss-monster {
+    background-color: var(--md-accent-bg-color);
   }
 
   blockquote {
