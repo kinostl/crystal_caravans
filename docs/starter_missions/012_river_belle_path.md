@@ -15,7 +15,7 @@
 >
 > travelers in crystal caravans.
 
-**Goal** Defeat the _Giant Crab_ protecting the Myrrh Tree.
+**Goal** Defeat the _Giant Crab_ protecting the Myrrh Tree. (Don't worry, the Myrrh Tree can make more.)
 
 ```mermaid
 graph LR
@@ -53,7 +53,7 @@ _Resistant to_ -
 _Vulnerable to_ Fire, Lightning  
 Appears in groups of 3 to 4.
 
-**Goblin Chieftan** 24 Hearts  
+**Goblin Chieftan** 18 Hearts  
 Combat 2, Unity 2, Magic 1  
 _Resistant to_ -  
 _Vulnerable to_ Fire  
@@ -121,9 +121,11 @@ The players may change the element of their Chalice to Wind or Water while they'
 **_Exits_**
 
 -   Goblin Labyrinth
--   The Scenic Gauntlet
+-   The Scenic Cliff
 
 ## The Scenic Cliff
+
+Roll for The Goblin Labyrinth before describing this area.
 
 A surprisingly long path through a beautiful piece of forest up a small hill. The Myrrh tree's roots must have reached this place. The pathway ends at a cliff overlooking the Goblin Labyrinth.
 
@@ -139,6 +141,45 @@ If this is an Exploration, the air smells cleaner than normal. Players may spend
 -   Goblin Courtyard
 -   Drop into the Goblin Labyrinth
 
+## Goblin Labyrinth
+
+This was once a large field where traders could take a break. Some say it was a bazaar at one point even. Now its a field of shallow trenches where grass struggles to grow.
+
+If this is a Combat, some monsters are hiding in the trenches. Spawn a Mu, Hedgehog Pie, and 3 Goblins.
+
+If this is a Puzzle, there are magic traps buried in the ground. They're unstable Fire Magicite that explode if they're stepped on. An Explosion is a Fire spell, but each hit counts as a crit.
+
+If this is an Exploration, the miasma thickens. It is not a beautiful place, but you can see what it once was. You can make a Unity roll to fill yourself with hope and heal a heart.
+
+**_Exits_**
+
+-   Goblin Courtyard
+-   Defeat the Giant Crab
+
 ## Defeat The Giant Crab
 
-Giant crab stuff
+The Myrrh Tree sits in a secluded grotto with a massive waterfall underneath it. Thick foliage grows well here in colors that only those in Crystal Caravans get to see. The ground rumbles and the waterfall splits apart. A giant crab jumps out from a cave behind the waterfall, slams into the ground, and screeches. Its ready for combat.
+
+<div class="boss-monster" markdown>
+
+**Giant Crab**{.boss-name} 30 Hearts  
+Combat 3, Unity 1, Magic 2  
+_Resistant to_ Thunder, Slow, Stop  
+_Vulnerable to_ -
+
+When the Giant Crab receives a critical hit, or drops below 10 or 20 hearts, the players choose to remove the left or right claw.
+
+When the Crab loses an claw it loses 1 point of Combat.
+
+_Crab Hammer_ --- Roll Combat for each claw. Choose different targets. The Crab slams the ground.  
+_Megavolt_ --- Magic: Use only without claws. The Crab fires a huge beam of electricity. (Thunder)
+
+**_Desperation Attacks_**
+
+Giant Crab can only use these after dropping below 20 hearts.
+
+_Crab Drangoon_ --- Combat: The Crab jumps around. Each Hit harms a different target.  
+_Bubble Tea_ --- Magic: Sticky bubbles fill the air. All players roll Luck. Any who fail are Slowed.  
+_Static Rush_ --- Use only with an claw. The Crab charges. Roll Combat and Magic to attack.
+
+</div>

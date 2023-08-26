@@ -31,7 +31,7 @@ Crits on an attack fusion add additional turns to the status effect.
 
 !!! Info inline end "Holy's Status Effect"
 
-    Being made of Miasma, most monsters are vulnerable to Holy. This takes the place of its Status Effect.
+    Being made of Miasma, all monsters are vulnerable to Holy unless stated otherwise. This takes the place of its Status Effect.
 
 ## Healing Spell Fusions
 

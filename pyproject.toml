@@ -14,6 +14,7 @@ mkdocs-print-site-plugin = "^2.3.5"
 mkdocs-table-reader-plugin = "^2.0.1"
 openpyxl = "^3.1.2"
 mdx-outline = {url = "https://github.com/kinostl/mdx_outline/archive/refs/heads/master.zip"}
+markdown-emdash = "^0.2.0"
 
 
 [build-system]

@@ -6,6 +6,8 @@ You start a dungeon fresh. Your hearts are full, your stomachs are fed, and you'
 
 Fighting is a back and forth between the party and a band of monsters. The party says every action they plan on taking to win the fight, then roll the relevant dice (Usually Combat or Magic).
 
+Players always get the first action unless the miasma has reached the level where monsters are no longer surprised. At that point they know you're there and start combats.
+
 _Every_ dice that is a success contributes to this roll. For every success, choose a monster. It loses a heart. They'll do the same to you, until one side has lost.
 
 When the party runs out of hearts, they tuck their tail between their legs and run back to town to heal.

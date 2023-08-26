@@ -1,4 +1,4 @@
-# Starter Missions
+# Missions
 
 Missions are actually a collection of encounters, a gimmick, and a guardian.
 

@@ -1,5 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Quintessential&family=Tangerine:wght@400;700&display=swap');
 
+:root {
+  --md-primary-fg-color: #4051b5;
+  --md-primary-fg-color--light: #5d6cc0;
+  --md-primary-fg-color--dark: #303fa1;
+  --md-primary-bg-color: #fff;
+  --md-primary-bg-color--light: #ffffffb3;
+  --md-accent-fg-color: #526cfe;
+  --md-accent-fg-color--transparent: #526cfe1a;
+  --md-accent-bg-color: #fff;
+  --md-accent-bg-color--light: #ffffffb3;
+}
+
 body {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -41,21 +53,27 @@ blockquote {
   color: var(--md-accent-fg-color);
 }
 
-.md-nav--primary .md-nav__title,
-.md-nav--secondary .md-nav__title {
-  background-color: #f1e9d2;
-  box-shadow: 0 0 0.4rem 0.4rem #f1e9d2;
-  color: var(--md-default-fg-color);
+.boss-monster {
+  border: var(--md-typeset-table-color) double 0.5em;
+  padding: 0.5em;
+}
+
+.boss-name {
+  font-size: x-large;
+  text-decoration: underline;
 }
 
 @media not print {
-  body,
-  table {
-    background-color: #f1e9d2;
+  :root {
+    --md-default-bg-color: #f1e9d2;
+    --md-typeset-table-color: black;
   }
 
   blockquote {
     background-color: #f7fcfe;
+  }
+  .boss-name {
+    font-size: xx-large;
   }
 }
 
