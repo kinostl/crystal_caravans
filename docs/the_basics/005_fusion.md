@@ -14,7 +14,7 @@ Summoning it in conjunction with...
 
 ...another summon of the same spell will cause the summon to be more powerful.
 
-When you fuse a spell, add up the successes of everyone contributing a spell.
+When you fuse a spell, add up the successes of everyone contributing a spell or attack.
 
 Crits on a spell fusion cause the status effect to occur for a number of turns equal to the number of crits.
 

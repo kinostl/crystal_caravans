@@ -6,6 +6,8 @@ All tribes start with **Travel Clothes**.
 
 ## Armor Accessories
 
+<!-- TODO Explain what an Armor Accessory is -->
+
 Every Tribe has their own signature Armor Accessory. Clavats have Shields. Lilties have Gloves. Yukes have Helmets, and Selkies have Sashes.
 
 -   _Clavats_ start with a **Makeshift Shield**.

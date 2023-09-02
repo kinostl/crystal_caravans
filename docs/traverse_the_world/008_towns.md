@@ -22,5 +22,4 @@ You can send mail when you're in town at any mogmail moogle.
 
 Towns are always one node away from a dungeon. People living in town learn a lot about nearby dungeons from their own exploration, and from talking to the adventurers that pass through. They're happy to share that knowledge if you ask them about it. Say what you're researching, and roll Unity to go around town asking about happenings. The GM will tell you a fact for each dice rolled. A number of them are guaranteed to be true, equal to the amount of success you've rolled.
 
-Sometimes they might ask you favors if you're going there. If you do, they'll usually have a good reward to give you if you do. It might be finding a rare ingredient for them while you're there, or maybe getting revenge on a specific monster. Everyone has different favors they need doing.
-
+Sometimes they might ask you favors if you're going there. If you do, they'll usually have a good reward to give you if you do. Its usually a request for a rare material or ingredient that can only be found there, but sometimes they might ask for something like a painting of a place that hasn't been seen in years.

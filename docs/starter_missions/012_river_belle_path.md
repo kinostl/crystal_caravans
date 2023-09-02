@@ -48,13 +48,13 @@ Normally this would have multiple encounter lists for which year it is or which 
 <section class="monster-list" markdown>
 
 **Goblin** 3 Hearts  
-Combat 2, Unity 1, Magic 1  
+Combat 2, Unity 1, Magic 0  
 _Resistant to_ -  
 _Vulnerable to_ Fire, Lightning  
 Appears in groups of 3 to 4.
 
 **Goblin Chieftan** 18 Hearts  
-Combat 2, Unity 2, Magic 1  
+Combat 2, Unity 2, Magic 0  
 _Resistant to_ -  
 _Vulnerable to_ Fire  
 Provides other Goblins an extra dice on all rolls.  
@@ -163,16 +163,16 @@ The Myrrh Tree sits in a secluded grotto with a massive waterfall underneath it.
 <div class="boss-monster" markdown>
 
 **Giant Crab**{.boss-name} 30 Hearts  
-Combat 3, Unity 1, Magic 2  
+Combat 3, Unity 0, Magic 2  
 _Resistant to_ Thunder, Slow, Stop  
 _Vulnerable to_ -
 
 When the Giant Crab receives a critical hit, or drops below 10 or 20 hearts, the players choose to remove the left or right claw.
 
-When the Crab loses an claw it loses 1 point of Combat.
+When the Crab loses a claw it loses 1 point of Combat.
 
-_Crab Hammer_ --- Roll Combat for each claw. Choose different targets. The Crab slams the ground.  
-_Megavolt_ --- Magic: Use only without claws. The Crab fires a huge beam of electricity. (Thunder)
+_Crab Hammer_ --- Combat: The Crab slams the ground, roll combat for each claw. Each roll attacks a new target.  
+_Megavolt_ --- Magic: Use only without claws. The Crab attacks with a huge beam of electricity. Also paralyze a target for each crit.
 
 **_Desperation Attacks_**
 
@@ -180,6 +180,6 @@ Giant Crab can only use these after dropping below 20 hearts.
 
 _Crab Drangoon_ --- Combat: The Crab jumps around. Each Hit harms a different target.  
 _Bubble Tea_ --- Magic: Sticky bubbles fill the air. All players roll Luck. Any who fail are Slowed.  
-_Static Rush_ --- Use only with an claw. The Crab charges. Roll Combat and Magic to attack.
+_Static Rush_ --- Use only with a claw. The Crab charges. Roll Combat and Magic to attack.
 
 </div>

@@ -53,7 +53,6 @@ nav:
   - 'The Passage Of Time':
       - the_passage_of_time/009_time.md
   - 'Tables':
-      - appendix/index.md
       - appendix/weapons.md
       - appendix/armor.md
       - appendix/accessories.md
@@ -61,7 +60,9 @@ nav:
       - appendix/chalice_accessories.md
       - appendix/edible_accessories.md
       - appendix/monsters.md
-  - 'Missions':
+  - 'Running the Game':
+      - running_the_game/missions.md
+  - 'Tipa - Year 1':
       - starter_missions/index.md
       - starter_missions/012_river_belle_path.md
       - starter_missions/013_mushroom_forest.md

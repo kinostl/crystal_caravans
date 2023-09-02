@@ -6,6 +6,8 @@ You'll find them sometimes while you explore, win fights, and solve puzzles.
 
 Magicite turns back into miasma when it leaves the space between a myrrh tree and miasma.
 
+<!-- TODO Add lore about how Attack Magicite comes from the Miasma and Healing Magicite comes from the Myrrh -->
+
 ## Casting Spells
 
 You can use magicite to cast spells. Focus on a target, and roll magic. When you do this, you'll summon the magicite's spell on your target.
@@ -19,6 +21,8 @@ Casting an attacking spell on a target causes it to take damage like a normal at
 -   **Fire** Summons Fire. Causes burning .
 -   **Blizzard** Summons Ice. Causes freezing .
 -   **Thunder** Summons Lightning. Causes paralysis .
+
+<!-- TODO Consider making this easier on the GM's right to withold information. Vulnerability means every hit is a crit. Resistance means only crits are hits. -->
 
 If an enemy is vulnerable to a spell, roll an extra dice.
 

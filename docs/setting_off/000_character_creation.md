@@ -1,8 +1,19 @@
 # Making your character
 
-You and your party come from the town of Tipa, on the Tipa Peninsula.
+You and your party all come from the same town, and you are united on your quest to acquire Myrrh Dew for the continuation of that town.
+
+Before you think of who you are, you should name this town and come up with some details about it. It'll help inform your characters and their families.
+
+Whats it like? Are you a fishing village on a major trade route? Maybe a borough of a well defended city? A little town in a deep part of a mountain thats easily forgotten?
+
+How is your town doing? Is it well equipped to handle the miasma, or is it struggling on its last year?
+
+Anything beyond this might be a bit too much to consider, you won't be spending too much time there, but you will be keeping it in your memories as you travel. Its what you put your life at risk to defend.
 
 ## Who you can be
+
+<!-- TODO Consider changing this to have Tribe be aesthetic and instead mechanically focus on Focus Stat -->
+<!-- TODO Rewrite the tribe descriptions to focus on their society instead of typecasting everyone -->
 
 You can choose from four tribes. Some equipment is tribe specific.
 
@@ -103,6 +114,8 @@ Eating food heals 1 heart in addition to the listed effect.
 ### Your Family Trade
 
 Your Family has a trade. Choose one that hasn't been chosen from Blacksmith, Tailor, Farmer, Rancher, Miller, Fisherman, Merchant, and Alchemist. This will effect what kind of gifts you get from sending mail to your family.
+
+<!--TODO Detail Family Trade mechanics in Time Mechanics. Crafting and gifts. -->
 
 ## Checklist
 

@@ -14,6 +14,8 @@ During a mission you may choose to roll 2d6 instead of 3d6. If you choose to do 
 
 ## Going through a Mission
 
+<!--TODO This section is messy. Clean it up. -->
+
 Your mission has one goal: Get a drop of dew from a Myrrh tree in the depths of places where no one dare go. Dungeons and forests and forgotten places filled with monsters and their conniving traps.
 
 The Miasma is a living thing that does not want you to do this. It is threatened by Myrrh. It cannot get close to a Myrrh tree to destory it, so it sets up defenses around it in the form of Monsters. They can enter warded places that Miasma can't, and they can harm in ways it cannot. Just like the Miasma, they want you dead. These defenses where Miasma and Myrrh conflict are known as Dungeons.
@@ -30,6 +32,8 @@ When you finish a node, the GM will secretly roll 1d6 for each exit to see what 
 6. Trap w/ Treasure
 
 ### The Miasma
+
+<!--TODO Talk about The Miasma's relationship to Monsters here, then detail in the monsters section. -->
 
 The Miasma does not want your mission to succeed and will fight you the entire time. Its pressure starts at 0. When the miasma thickens, add 1d6 to its pressure.
 

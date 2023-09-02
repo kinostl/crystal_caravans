@@ -28,7 +28,9 @@ When you visit a Myrrh tree, it will have an Element. You may choose to change y
 
 If the Chalice Carrier is magical, you can treat the Chalice as a magicite of the same element.
 
-A Chalice also wards off mana of its current element. Roll an extra dice when fighting Monsters of the Chalice's element. You may pass through Mana Streams of the matching element.
+A Chalice also wards off mana of its current element. Roll an extra dice when fighting Monsters of the Chalice's element. You may pass through Miasma Streams of the matching element.
+
+<!-- TODO Standardize all wording. Miasma Stream was previously Mana Stream. -->
 
 The elements a chalice can attune to are Fire, Water, Wind, and Earth.
 
