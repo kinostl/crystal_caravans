@@ -35,6 +35,9 @@ When you finish a node, the GM will secretly roll 1d6 for each exit to see what 
 
 <!--TODO Talk about The Miasma's relationship to Monsters here, then detail in the monsters section. -->
 
+<!-- Reference: -->
+<!-- https://goblinpunch.blogspot.com/2023/04/the-underclock-fixing-random-encounter.html -->
+
 The Miasma does not want your mission to succeed and will fight you the entire time. Its pressure starts at 0. When the miasma thickens, add 1d6 to its pressure.
 
 When the miasma's pressure is above...
@@ -50,9 +53,6 @@ This list is not exhaustive
 
 -   Some monsters may roll to thicken the miasma instead of attaking.
 -   Taking too many actions while exploring or solving puzzles thickens the miasma.
-
-<!-- TODO Implement Goblin Punch's Underclock idea. -->
-<!-- https://goblinpunch.blogspot.com/2023/04/the-underclock-fixing-random-encounter.html -->
 
 ## Equipment
 

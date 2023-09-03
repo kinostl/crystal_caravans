@@ -63,7 +63,10 @@ nav:
   - 'Running the Game':
       - running_the_game/missions.md
   - 'Tipa - Year 1':
-      - starter_missions/index.md
+      - starter_missions/introduction.md
+      - starter_missions/the_town_of_tipa.md
       - starter_missions/012_river_belle_path.md
+      - starter_missions/marrs_pass.md
       - starter_missions/013_mushroom_forest.md
       - starter_missions/014_mines.md
+      - starter_missions/end_of_year_1.md

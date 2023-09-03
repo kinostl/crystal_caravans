@@ -6,6 +6,8 @@ You start a dungeon fresh. Your hearts are full, your stomachs are fed, and you'
 
 ## Fighting Monsters
 
+<!-- TODO Redirecting Damage Mechanics. Actions shouldn't be wasted and whiffed. -->
+
 Fighting is a back and forth between the party and a band of monsters. The party says every action they plan on taking to win the fight, then roll the relevant dice (Usually Combat or Magic).
 
 Players always get the first action unless the miasma has reached the level where monsters are no longer surprised. At that point they know you're there and start combats.
