@@ -45,8 +45,8 @@ A Focus Attack's Status Effect lasts a number of turns equal to the number of cr
 
 ### Selkie
 
--   **Aura Blast**
--   **Stampede** For every crit, deal a point of damage to a target.
+-   **Aura Blast** For every crit, deal a point of damage to a target.
+-   **Stampede** For every crit, stop the target.
 -   **Dual Blast** For every crit, attack the target again. Ignore crits on those attacks.
 -   **Power Kick** For every crit, stop the target and deal a point of damage to it.
 -   **Meteor Strike** For every crit, attack the target again.
