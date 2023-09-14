@@ -10,6 +10,8 @@ All tribes start with **Travel Clothes**.
 
 Every Tribe has their own signature Armor Accessory. Clavats have Shields. Lilties have Gloves. Yukes have Helmets, and Selkies have Sashes.
 
+All of these armor accessories grant you 1 Extra Heart.
+
 -   _Clavats_ start with a **Makeshift Shield**.
 -   _Lilties_ start with **Gauntlets**.
 -   _Yukes_ start with a **Plain Helmet**.
