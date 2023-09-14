@@ -59,7 +59,7 @@ Many of these sages live quietly in Shella. In the ancient wars, they were able 
 
     - 1 Extra Dice when rolling Luck
     - Rolling a 1 also counts as a crit
-    - Ignore the first Underclock roll on each node
+    - Ignore the first time you roll to thicken the miasma on each node
 
     Luck should rarely be rolled, so Selkies get an extra benefit.
 

@@ -26,11 +26,11 @@ Crits on attacks count as 2 successes instead of 1.
 
 Monsters can't be everywhere, so they'll set up traps to harm the curious adventurer, and they'll hide their pathways behind puzzles and secrets. When you enter a node with no monsters, its safe to assume its a puzzle or a trap. The Game Master will let you know if its a set piece or if it holds a harmless secret to discover.
 
-Traps and Puzzles are interchangeable, they both require your focus to solve. When you encounter one the GM wil inform you what kind it is, and what needs to be accomplished to solve it. Failing a roll while solving a puzzle advances the underclock.
+Traps and Puzzles are interchangeable, they both require your focus to solve. When you encounter one the GM wil inform you what kind it is, and what needs to be accomplished to solve it. Failing a roll while solving a puzzle thickens the miasma.
 
 ## Exploring
 
-Some places are just beautiful detours. If you find yourself in an Exploration tile the GM will tell you something about the world or the dungeon, then let you know that everyone can take one action without advancing the underclock. This is a good time to eat food, heal with magicite, and manage your inventory.
+Some places are just beautiful detours. If you find yourself in an Exploration tile the GM will tell you something about the world or the dungeon, then let you know that everyone can take one action without thickening the miasma. This is a good time to eat food, heal with magicite, and manage your inventory.
 
 ### Moogle Nest
 
